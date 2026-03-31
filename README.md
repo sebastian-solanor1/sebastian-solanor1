@@ -36,7 +36,7 @@ Analytical economist focused on transforming complex datasets into strategic fin
 ![Sebastian's GitHub Stats](https://github-readme-stat.vercel.app/api?username=sebastian-solanor1&show_icons=true&theme=distinguished&hide_border=true)
 
 ![Top Languages](https://github-readme-stat.vercel.app/api/top-langs/?username=sebastian-solanor1&layout=compact&theme=distinguished&hide_border=true)
-
+```
 ---
 
 ## Contact & Links

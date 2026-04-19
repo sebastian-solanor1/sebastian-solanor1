@@ -40,6 +40,6 @@ Analytical economist focused on transforming complex datasets into strategic fin
 
 ## Contact & Links
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sebastian-solanor1/)
-* **Tableau Public:** [public.tableau.com/profile/your-profile](https://public.tableau.com/app/profile/sebastian.solano.r./vizzes)
+* **LinkedIn:** [https://www.linkedin.com/in/sebastian-solanor1/]
+* **Tableau Public:** [https://public.tableau.com/app/profile/sebastian.solano.r./vizzes]
 * **Email:** sebastian.solanor1@gmail.com
